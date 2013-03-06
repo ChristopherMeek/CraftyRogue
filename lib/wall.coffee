@@ -1,5 +1,5 @@
 define ['crafty'], (crafty) ->
     crafty.c 'Wall',
         init: () ->
-            @requires('2D, Canvas, Color, Tile')
-            @color('rgb(128,0,0)')
+            @requires('2D, Canvas, Image, Tile')
+            @image('../assets/Stone Block.png')

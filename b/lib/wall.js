@@ -5,7 +5,7 @@
     return crafty.c('Wall', {
       init: function() {
         this.requires('2D, Canvas, Image, Tile');
-        return this.image('assets/Stone Block.png');
+        return this.image('../assets/Stone Block.png');
       }
     });
   });

@@ -4,11 +4,11 @@
   define([], function() {
     return {
       grid: {
-        width: 5,
-        height: 3,
+        width: 24,
+        height: 16,
         tile: {
-          width: 101,
-          height: 101
+          width: 16,
+          height: 16
         }
       }
     };
