@@ -1,7 +1,9 @@
 define [], () ->
     grid:
-        width: 5
-        height: 3
+        width: 15
+        height: 5
         tile:
             width: 101
-            height: 101
+            height: 81
+            topPadding: 49
+            bottomPadding: 41
