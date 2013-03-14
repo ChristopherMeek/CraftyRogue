@@ -2,22 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="438f13ac-45c2-4256-9ad9-86674f5eee94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dungeon.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/floor.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/player.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spikes/automata.coffee" afterPath="$PROJECT_DIR$/spikes/automata.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game.coffee" afterPath="$PROJECT_DIR$/lib/game.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game.js" afterPath="$PROJECT_DIR$/lib/game.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/settings.coffee" afterPath="$PROJECT_DIR$/lib/settings.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/settings.js" afterPath="$PROJECT_DIR$/lib/settings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tile.coffee" afterPath="$PROJECT_DIR$/lib/tile.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/wall.coffee" afterPath="$PROJECT_DIR$/lib/wall.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/wall.js" afterPath="$PROJECT_DIR$/lib/wall.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CraftyRogue.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362776471662" ignored="false" />
+    <file path="/Dummy.txt" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363270390432" ignored="false" />
     <file path="/a.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362776919671" ignored="false" />
     <file path="/settings.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362661659195" ignored="false" />
-    <file path="/game.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362662324911" ignored="false" />
+    <file path="/game.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363269803558" ignored="false" />
     <file path="/dungeon.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362777189387" ignored="false" />
-    <file path="/a.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362776994022" ignored="false" />
-    <file path="/automata.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362782219623" ignored="false" />
-    <file path="$USER_HOME$/WebstormProjects/automata/automata.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362782249768" ignored="false" />
+    <file path="/a.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363120664173" ignored="false" />
+    <file path="/automata.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363122318418" ignored="false" />
     <file path="/automata.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362782131946" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/specs/command/adding_course_to_organisation_concerns.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362994087983" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/public/stylesheets/learner-courses.less" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362994087983" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/routes/user/index.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362994087983" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/views/organisation/register.jade" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363020642811" ignored="false" />
+    <file path="/register.jade" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363018495892" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/client/application/ui.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363018460420" ignored="false" />
+    <file path="/ui.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363018401703" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/client/registration/form.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363021327080" ignored="false" />
+    <file path="/form.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363021289960" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/client/libs/require.config.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363018004646" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/client-compiled/libs/require.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363023305890" ignored="false" />
+    <file path="/index.html" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363267593086" ignored="false" />
+    <file path="/player.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363268692615" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +59,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dungeon.coffee" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/dungeon.coffee">
+      <file leaf-file-name="game.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="76" selection-end="76" vertical-scroll-proportion="0.04906205">
+            <state line="15" column="85" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="automata.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/automata/automata.coffee">
+      <file leaf-file-name="game.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="53" selection-start="836" selection-end="857" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="player.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/player.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="37" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/settings.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="17" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rot.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/rot.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -55,11 +104,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game.coffee">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="81" selection-start="0" selection-end="81" vertical-scroll-proportion="0.0">
+            <state line="14" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="-9.655172">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wall.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/wall.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="50" selection-start="83" selection-end="170" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tile.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/tile.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="13" selection-start="0" selection-end="385" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1363268488291" expanded="true" signature="55:385" placeholder="..." />
+                <marker date="1363268488291" expanded="true" signature="80:385" placeholder="init: () -&gt;&#10;            console.log 'init tile'&#10;            @attr&#10;                w: settings.grid.tile.width&#10;                h: settings.grid.tile.height..." />
+                <marker date="1363268488291" expanded="true" signature="104:234" placeholder="..." />
+                <marker date="1363268488291" expanded="true" signature="162:234" placeholder="w: settings.grid.tile.width..." />
+                <marker date="1363268488291" expanded="true" signature="269:385" placeholder="..." />
+                <marker date="1363268488291" expanded="true" signature="291:371" placeholder="x: x * settings.grid.tile.width..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="floor.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/floor.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="42" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1363267993476" expanded="true" signature="35:180" placeholder="..." />
+                <marker date="1363267993476" expanded="true" signature="95:180" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,11 +172,15 @@
         <option value="$PROJECT_DIR$/lib/require.js" />
         <option value="$PROJECT_DIR$/lib/domReady.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/lib/tile.coffee" />
-        <option value="$PROJECT_DIR$/lib/wall.coffee" />
-        <option value="$PROJECT_DIR$/lib/game.coffee" />
-        <option value="$PROJECT_DIR$/lib/settings.coffee" />
         <option value="$PROJECT_DIR$/lib/dungeon.coffee" />
+        <option value="$PROJECT_DIR$/spikes/automata.coffee" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/floor.coffee" />
+        <option value="$PROJECT_DIR$/lib/settings.coffee" />
+        <option value="$PROJECT_DIR$/lib/wall.coffee" />
+        <option value="$PROJECT_DIR$/lib/tile.coffee" />
+        <option value="$PROJECT_DIR$/lib/game.coffee" />
+        <option value="$PROJECT_DIR$/lib/player.coffee" />
       </list>
     </option>
   </component>
@@ -126,6 +216,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,25 +245,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="spikes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CraftyRogue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CraftyRogue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CraftyRogue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CraftyRogue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game.coffee" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.CoffeeScript" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/automata" />
+    <property name="options.lastSelected" value="settings" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spikes/automata.js" />
+    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.Launch">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -181,6 +304,19 @@
       <option name="filePath" />
       <option name="scope" value="ALL" />
       <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
+      <setting name="nodePath" value="C:/Program Files/nodejs/node" />
+      <envs />
+      <setting name="passParentEnvVars" value="true" />
+      <setting name="nodeunitModuleDir" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="testType" value="JS_FILE" />
+      <setting name="jsFile" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
@@ -199,11 +335,36 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="Spike" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="automata.js" working-dir="$PROJECT_DIR$/spikes">
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Launch" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Spike" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="438f13ac-45c2-4256-9ad9-86674f5eee94" name="Default" comment="" />
@@ -213,17 +374,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32871014" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984147" sideWeight="0.67315716" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24920736" sideWeight="0.67128986" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39805827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32684284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47434118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -276,7 +438,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -293,15 +455,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/domReady.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="3" selection-start="4032" selection-end="4032" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/require.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="261" selection-start="16479" selection-end="16479" vertical-scroll-proportion="0.0" />
@@ -310,26 +467,6 @@
     <entry file="file://$PROJECT_DIR$/lib/crafty.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10407" column="105" selection-start="410380" selection-end="410380" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/domReady.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="3" selection-start="4032" selection-end="4032" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/require.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="261" selection-start="16479" selection-end="16479" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/crafty.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10407" column="105" selection-start="410380" selection-end="410380" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tile.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/Stone Block.png">
@@ -342,49 +479,92 @@
         <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0733813" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game.js">
+    <entry file="file://$USER_HOME$/WebstormProjects/automata/automata.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="132" selection-start="293" selection-end="410" vertical-scroll-proportion="0.33251232" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/automata/automata.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="26" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="-9.655172">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/floor.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="42" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1363267993476" expanded="true" signature="35:180" placeholder="..." />
+            <marker date="1363267993476" expanded="true" signature="95:180" placeholder="..." />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/settings.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="175" selection-end="175" vertical-scroll-proportion="0.19568345">
+        <state line="3" column="17" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tile.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="0" selection-end="385" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1363268488291" expanded="true" signature="55:385" placeholder="..." />
+            <marker date="1363268488291" expanded="true" signature="80:385" placeholder="init: () -&gt;&#10;            console.log 'init tile'&#10;            @attr&#10;                w: settings.grid.tile.width&#10;                h: settings.grid.tile.height..." />
+            <marker date="1363268488291" expanded="true" signature="104:234" placeholder="..." />
+            <marker date="1363268488291" expanded="true" signature="162:234" placeholder="w: settings.grid.tile.width..." />
+            <marker date="1363268488291" expanded="true" signature="269:385" placeholder="..." />
+            <marker date="1363268488291" expanded="true" signature="291:371" placeholder="x: x * settings.grid.tile.width..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/wall.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="20" selection-start="141" selection-end="141" vertical-scroll-proportion="0.097841725">
+        <state line="4" column="50" selection-start="83" selection-end="170" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/rot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="53" selection-start="836" selection-end="857" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="81" selection-start="0" selection-end="81" vertical-scroll-proportion="0.0">
+        <state line="15" column="85" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/automata/automata.js">
+    <entry file="file://$PROJECT_DIR$/spikes/automata.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="5" column="16" selection-start="147" selection-end="147" vertical-scroll-proportion="0.2183406">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/automata/automata.coffee">
+    <entry file="file://$PROJECT_DIR$/lib/player.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dungeon.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="76" selection-end="76" vertical-scroll-proportion="0.04906205">
+        <state line="0" column="37" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

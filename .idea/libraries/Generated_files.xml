@@ -3,18 +3,24 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/lib/game.js" />
-        <item url="file://$PROJECT_DIR$/lib/dungeon.js" />
+        <item url="file://$PROJECT_DIR$/lib/player.js" />
+        <item url="file://$PROJECT_DIR$/lib/floor.js" />
         <item url="file://$PROJECT_DIR$/lib/wall.js" />
         <item url="file://$PROJECT_DIR$/lib/settings.js" />
         <item url="file://$PROJECT_DIR$/lib/tile.js" />
+        <item url="file://$PROJECT_DIR$/spikes/automata.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/lib/game.js" />
       <root url="file://$PROJECT_DIR$/lib/dungeon.js" />
+      <root url="file://$PROJECT_DIR$/lib/dungeon.js" />
+      <root url="file://$PROJECT_DIR$/lib/game.js" />
+      <root url="file://$PROJECT_DIR$/lib/player.js" />
+      <root url="file://$PROJECT_DIR$/lib/floor.js" />
       <root url="file://$PROJECT_DIR$/lib/wall.js" />
       <root url="file://$PROJECT_DIR$/lib/settings.js" />
       <root url="file://$PROJECT_DIR$/lib/tile.js" />
+      <root url="file://$PROJECT_DIR$/spikes/automata.js" />
     </CLASSES>
     <SOURCES />
   </library>

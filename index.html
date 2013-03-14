@@ -6,9 +6,14 @@
     <script type="text/javascript">
         requirejs.config({
             baseUrl: 'lib/',
-            urlArgs: 'bust=' + (new Date()).getTime()
+            urlArgs: 'bust=' + (new Date()).getTime(),
+            shim: {
+                'rot': {
+                    exports: 'ROT'
+                }
+            }
         });
-        require(['domReady!','game'], function(doc, game) {
+        require(['domReady!', 'game'], function (doc, game) {
             game.start();
         });
     </script>
