@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="438f13ac-45c2-4256-9ad9-86674f5eee94" name="Default" comment="" />
+    <list default="true" id="438f13ac-45c2-4256-9ad9-86674f5eee94" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game.coffee" afterPath="$PROJECT_DIR$/lib/game.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game.js" afterPath="$PROJECT_DIR$/lib/game.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/player.coffee" afterPath="$PROJECT_DIR$/lib/player.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/player.js" afterPath="$PROJECT_DIR$/lib/player.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/wall.coffee" afterPath="$PROJECT_DIR$/lib/wall.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/wall.js" afterPath="$PROJECT_DIR$/lib/wall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="CraftyRogue.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363270767641" ignored="false" />
+    <file path="/Dummy.txt" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363871385803" ignored="false" />
     <file path="/a.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362776919671" ignored="false" />
     <file path="/settings.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362661659195" ignored="false" />
-    <file path="/game.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363269803558" ignored="false" />
+    <file path="/game.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363872682699" ignored="false" />
     <file path="/dungeon.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1362777189387" ignored="false" />
     <file path="/a.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363120664173" ignored="false" />
     <file path="/automata.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363122318418" ignored="false" />
@@ -24,8 +32,17 @@
     <file path="$PROJECT_DIR$/../sponge/LMS/client/libs/require.config.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363018004646" ignored="false" />
     <file path="$PROJECT_DIR$/../sponge/LMS/client-compiled/libs/require.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363023305890" ignored="false" />
     <file path="/index.html" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363267593086" ignored="false" />
-    <file path="/player.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363268692615" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363271175534" ignored="false" />
+    <file path="/player.coffee" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363874149924" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/routes/organisation/reports/index.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363623202392" ignored="false" />
+    <file path="/index.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363623197933" ignored="false" />
+    <file path="/fragment.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363624526344" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/lib/query/middleware.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363621786837" ignored="false" />
+    <file path="/middleware.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363621775791" ignored="false" />
+    <file path="/GetSurveyReport" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363623317638" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/lib/query/GetSurveyReport" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363623322560" ignored="false" />
+    <file path="$PROJECT_DIR$/../sponge/LMS/views/templates/organisation-admin/survey-report.jade" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363623496950" ignored="false" />
+    <file path="/survey-report.jade" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363623460726" ignored="false" />
+    <file path="/game.js" changelist="438f13ac-45c2-4256-9ad9-86674f5eee94" time="1363871462959" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +65,37 @@
       <file leaf-file-name="game.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="85" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0">
+            <state line="14" column="60" selection-start="863" selection-end="863" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="game.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="53" selection-start="836" selection-end="857" vertical-scroll-proportion="1.0087719">
+            <state line="31" column="26" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="player.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="player.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/player.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="51" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+            <state line="18" column="22" selection-start="719" selection-end="719" vertical-scroll-proportion="0.54711246">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="player.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="74" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1363874149975" expanded="true" signature="621:663" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,7 +130,7 @@
       <file leaf-file-name="wall.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/wall.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="50" selection-start="83" selection-end="170" vertical-scroll-proportion="0.0">
+            <state line="3" column="53" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,11 +141,8 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="11" column="13" selection-start="0" selection-end="385" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1363268488291" expanded="true" signature="55:385" placeholder="..." />
-                <marker date="1363268488291" expanded="true" signature="80:385" placeholder="init: () -&gt;&#10;            console.log 'init tile'&#10;            @attr&#10;                w: settings.grid.tile.width&#10;                h: settings.grid.tile.height..." />
                 <marker date="1363268488291" expanded="true" signature="104:234" placeholder="..." />
                 <marker date="1363268488291" expanded="true" signature="162:234" placeholder="w: settings.grid.tile.width..." />
-                <marker date="1363268488291" expanded="true" signature="269:385" placeholder="..." />
                 <marker date="1363268488291" expanded="true" signature="291:371" placeholder="x: x * settings.grid.tile.width..." />
               </folding>
             </state>
@@ -128,10 +153,7 @@
         <entry file="file://$PROJECT_DIR$/lib/floor.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="4" column="42" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1363267993476" expanded="true" signature="35:180" placeholder="..." />
-                <marker date="1363267993476" expanded="true" signature="95:180" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,18 +185,18 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/floor.coffee" />
         <option value="$PROJECT_DIR$/lib/settings.coffee" />
-        <option value="$PROJECT_DIR$/lib/wall.coffee" />
         <option value="$PROJECT_DIR$/lib/tile.coffee" />
+        <option value="$PROJECT_DIR$/lib/game.js" />
+        <option value="$PROJECT_DIR$/lib/wall.coffee" />
         <option value="$PROJECT_DIR$/lib/game.coffee" />
         <option value="$PROJECT_DIR$/lib/player.coffee" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="x" value="800" />
+    <option name="width" value="800" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -247,24 +269,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CraftyRogue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CraftyRogue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game.coffee" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -360,23 +364,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="800" y="0" width="800" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24920736" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5164257" sideWeight="0.5256588" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39805827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47434118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47375888" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -445,11 +449,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/require.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="261" selection-start="16479" selection-end="16479" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/crafty.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10407" column="105" selection-start="410380" selection-end="410380" vertical-scroll-proportion="0.0" />
@@ -475,20 +474,10 @@
         <state line="60" column="26" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="-9.655172">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/floor.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="42" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1363267993476" expanded="true" signature="35:180" placeholder="..." />
-            <marker date="1363267993476" expanded="true" signature="95:180" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -503,20 +492,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="13" selection-start="0" selection-end="385" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1363268488291" expanded="true" signature="55:385" placeholder="..." />
-            <marker date="1363268488291" expanded="true" signature="80:385" placeholder="init: () -&gt;&#10;            console.log 'init tile'&#10;            @attr&#10;                w: settings.grid.tile.width&#10;                h: settings.grid.tile.height..." />
             <marker date="1363268488291" expanded="true" signature="104:234" placeholder="..." />
             <marker date="1363268488291" expanded="true" signature="162:234" placeholder="w: settings.grid.tile.width..." />
-            <marker date="1363268488291" expanded="true" signature="269:385" placeholder="..." />
             <marker date="1363268488291" expanded="true" signature="291:371" placeholder="x: x * settings.grid.tile.width..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/wall.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="50" selection-start="83" selection-end="170" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,28 +508,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spikes/automata.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="147" selection-end="147" vertical-scroll-proportion="0.2183406">
+        <state line="5" column="16" selection-start="147" selection-end="147" vertical-scroll-proportion="0.2183406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/wall.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="53" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/player.coffee">
+    <entry file="file://$PROJECT_DIR$/lib/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="51" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+        <state line="3" column="74" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1363874149975" expanded="true" signature="621:663" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="26" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="-9.655172">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="85" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0">
+        <state line="14" column="60" selection-start="863" selection-end="863" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game.js">
+    <entry file="file://$PROJECT_DIR$/lib/player.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="53" selection-start="836" selection-end="857" vertical-scroll-proportion="1.0087719">
+        <state line="18" column="22" selection-start="719" selection-end="719" vertical-scroll-proportion="0.54711246">
           <folding />
         </state>
       </provider>
