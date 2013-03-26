@@ -6,6 +6,11 @@ define ['crafty', 'tile', 'wall', 'settings', 'rot', 'floor','player'], (crafty,
         if isWall then crafty.e('Wall').at x, y else crafty.e('Floor').at x, y
         if not isWall and not @playerStart
             @playerStart = { x: x, y: y }
+    digger2:
+        create: (makeWall) ->
+            for x in [0...10]
+                for y in [0...10]
+                    makeWall x, y, 1 if x is 0 or x is 9 or y is 0 or y is 9
     digger: new ROT.Map.Uniform(settings.grid.width, settings.grid.height)
     start: () ->
         console.log("Width:",@width())

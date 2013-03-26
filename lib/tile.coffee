@@ -9,4 +9,5 @@ define ['crafty','settings'], (crafty,settings) ->
             @attr
                 x: x * settings.grid.tile.width
                 y: y * settings.grid.tile.height
+                z: y * settings.grid.tile.height
             @
